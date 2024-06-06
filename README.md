@@ -25,7 +25,7 @@ El departamento antifraude de una compañía de mystery shopping desea hacer un 
 
 El objetivo en este caso práctico es la implementación del modelo multidimensional sobre diseño del data warehouse que daría respuesta a los usuarios analíticos del departamento antifraude, suponiendo que los usuarios aún no tienen claro el tipo de análisis que quieren realizar.
 
-###### Se deberán realizar:
+###### Se deberá realizar:
 
 - La implementación de un pequeño modelo multidimensional, haciendo uso de Pentaho Business Analytics Server y su herramienta wizard para modelado multidimensional o puede utilizar cualquier otra herramienta para realizar el modelado.
 
@@ -35,7 +35,7 @@ Para la realización de este ejercicio práctico se partirá de los datos **IMF_
 
 ------------
 
-Para seguir el desarrollo del caso práctico:
+#### Para seguir el desarrollo del caso práctico:
 
 1. Se realiza una primera visualización de datos con Python y se encuentra en el archivo [VisualizacionDatos.ipynb](https://github.com/melissamelendezrojano/DataWarehouse_ETL_CasoPractico/blob/main/VisualizacionDatos.ipynb)
 
